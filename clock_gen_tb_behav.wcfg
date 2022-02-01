@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="clock_gen_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="clock_gen_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="4,175.001 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="120"></NameColumnWidth>
+      <ValueColumnWidth column_width="73"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/clock_gen_tb/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/clk_i" type="logic">
+      <obj_property name="ElementShortName">clk_i</obj_property>
+      <obj_property name="ObjectShortName">clk_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/clk0_o" type="logic">
+      <obj_property name="ElementShortName">clk0_o</obj_property>
+      <obj_property name="ObjectShortName">clk0_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/clk1_o" type="logic">
+      <obj_property name="ElementShortName">clk1_o</obj_property>
+      <obj_property name="ObjectShortName">clk1_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/pllclk0" type="logic">
+      <obj_property name="ElementShortName">pllclk0</obj_property>
+      <obj_property name="ObjectShortName">pllclk0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/pllclk1" type="logic">
+      <obj_property name="ElementShortName">pllclk1</obj_property>
+      <obj_property name="ObjectShortName">pllclk1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/clkfbout" type="logic">
+      <obj_property name="ElementShortName">clkfbout</obj_property>
+      <obj_property name="ObjectShortName">clkfbout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/CLKIN_PERIOD" type="other">
+      <obj_property name="ElementShortName">CLKIN_PERIOD</obj_property>
+      <obj_property name="ObjectShortName">CLKIN_PERIOD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/CLK_MULTIPLY" type="other">
+      <obj_property name="ElementShortName">CLK_MULTIPLY</obj_property>
+      <obj_property name="ObjectShortName">CLK_MULTIPLY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/CLK_DIVIDE" type="other">
+      <obj_property name="ElementShortName">CLK_DIVIDE</obj_property>
+      <obj_property name="ObjectShortName">CLK_DIVIDE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/CLKOUT0_DIV" type="other">
+      <obj_property name="ElementShortName">CLKOUT0_DIV</obj_property>
+      <obj_property name="ObjectShortName">CLKOUT0_DIV</obj_property>
+   </wvobject>
+   <wvobject fp_name="/clock_gen_tb/clock0/CLKOUT1_DIV" type="other">
+      <obj_property name="ElementShortName">CLKOUT1_DIV</obj_property>
+      <obj_property name="ObjectShortName">CLKOUT1_DIV</obj_property>
+   </wvobject>
+</wave_config>
