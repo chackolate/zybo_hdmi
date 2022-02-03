@@ -4,3 +4,5 @@
 !readme.md
 !.gitkeep
 !*.vhd
+!*.xpr
+!*.wcfg
